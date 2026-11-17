@@ -1,0 +1,4 @@
+cd ..
+zip -r test_dir.zip test_dir
+unzip test_dir.zip -d unzipped_dir
+ls -R unzipped_dir
