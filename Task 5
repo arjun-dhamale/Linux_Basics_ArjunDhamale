@@ -1,0 +1,2 @@
+wget https://example.com/sample.txt
+ls -l sample.txt
